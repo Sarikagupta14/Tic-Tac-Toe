@@ -7,5 +7,5 @@ Skill(s) required:
 * Strategy,
 * Tactics,
 * Observation.
----
+
 Genres: Paper-and-pencil game, Board game, Strategy game
